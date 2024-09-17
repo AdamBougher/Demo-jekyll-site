@@ -2,9 +2,9 @@
 
 title: "Learning Jekyll"
 name: "Jekyll base site based on pwills.com"
-email: example@lorumpbsom.com
-url: ""
-repository: ""
+email: 
+url: "/"
+repository: "https://github.com/AdamBougher/"
 blogActive: true
 
 include:
