@@ -4,7 +4,7 @@ title: "Learning Jekyll"
 name: "Jekyll base site based on pwills.com"
 email: a.bougher1999@gmail.com
 url: "/"
-repository: "https://github.com/AdamBougher/"
+repository: "AdamBougher/Demo-jekyll-site"
 blogActive: true
 
 include:
